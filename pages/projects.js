@@ -21,52 +21,17 @@ const Projects = () => {
       <PageSection>
         <PageWrapper>
           <h1 className="intro__text">Projects.</h1> <br />
-          <Tabs>
-            <TabItems label="All">
-              <MansoryLayout>
-                {projectsData.map((item, index) => (
-                  <MansoryItem key={index} index={index} item={item} />
-                ))}
-              </MansoryLayout>
-            </TabItems>
-            <TabItems label="Projects">
-              <MansoryLayout>
-                {projectsData.map(
-                  (item, index) =>
-                    item.type.includes('project') && (
-                      <MansoryItem key={index} index={index} item={item} />
-                    )
-                )}
-              </MansoryLayout>
-            </TabItems>
-            <TabItems label="Dev Tools">
-              <MansoryLayout>
-                {projectsData.map(
-                  (item, index) =>
-                    item.type.includes('tools') && (
-                      <MansoryItem key={index} index={index} item={item} />
-                    )
-                )}
-              </MansoryLayout>
-            </TabItems>
-            <TabItems label="Open Source">
-              <MansoryLayout>
-                {projectsData.map(
-                  (item, index) =>
-                    item.type.includes('open-source') && (
-                      <MansoryItem key={index} index={index} item={item} />
-                    )
-                )}
-              </MansoryLayout>
-            </TabItems>
-            <TabItems label="Designs" href="https://dribbble.com/codewonders" />
-          </Tabs>
+          <MansoryLayout>
+            {projectsData.map((item, index) => (
+              <MansoryItem key={item.name} index={index} item={item} />
+            ))}
+          </MansoryLayout>
         </PageWrapper>
       </PageSection>
 
       <PageWrapper>
-        <FooterLink goto="/resume" className="mt-3 mb-5">
-          Lets Go To My Resume.
+        <FooterLink goto="/contact" className="mt-3 mb-5">
+          Contact Me
         </FooterLink>
         <br />
       </PageWrapper>

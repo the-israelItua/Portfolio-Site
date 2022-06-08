@@ -24,10 +24,10 @@ const Navbar = () => {
               <a
                 href="#!"
                 className="navbar-brand"
-                aria-label="Adenekan Wonderful Home"
+                aria-label="Israel Itua Home"
                 tabIndex={show ? '-1' : undefined}
               >
-                <Logo />
+                <p>Israel Itua</p>
               </a>
             </Link>
 
@@ -96,12 +96,14 @@ const Navbar = () => {
                   </Link>
                 </li>
                 <li className="nav-item hover__bottom">
-                  <Link href="/resume" activeClassName="is-active">
+                  <Link href="#1" activeClassName="is-active">
                     <a
                       className="nav-link"
                       id="cardHover"
                       onClick={closeShow}
-                      href="#!"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      href="https://drive.google.com/file/d/1N2RsWOqRxRARCyKtrzyGoq8hliecJITY/view"
                       aria-label="Go To Resume Page"
                       title="Resume"
                     >
@@ -130,7 +132,6 @@ const Navbar = () => {
                       aria-label={`Turn On ${
                         theme === false ? 'Light' : 'Dark'
                       } Mood`}
-                      onClick={setTheme}
                       href="#!"
                     >
                       <Moon />

@@ -19,14 +19,11 @@ const Contact = () => {
           <article>
             <p>
               Get in touch or shoot me an email directly on{' '}
-              <b>hellocodewonders@gmail.com</b>
+              <b>israelitua20@gmail.com</b>
             </p>
           </article>
           <br />
-          <form
-            method="POST"
-            action="https://formspree.io/adenekanwonderful41@gmail.com"
-          >
+          <form method="POST" action="https://formspree.io/f/xeqndanl">
             <div className="fields">
               <div className="field half">
                 <input

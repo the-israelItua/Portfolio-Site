@@ -18,7 +18,8 @@ export const actions = (theme) => [
 
   createScoutAction({
     label: 'Resume',
-    href: '/resume',
+    href:
+      'https://drive.google.com/file/d/1N2RsWOqRxRARCyKtrzyGoq8hliecJITY/view',
     keyboardShortcut: ['r'],
   }),
   createScoutAction({
@@ -28,16 +29,16 @@ export const actions = (theme) => [
   }),
 
   createScoutSection({
-    label: 'About Adenekan Wonderful',
+    label: 'About Israel Itua',
 
     children: [
       createScoutAction({
-        label: 'About Adenekan Wonderful',
+        label: 'About Israel Itua',
         href: '/about',
         keyboardShortcut: ['a'],
       }),
       createScoutAction({
-        label: "Adenekan Wonderful's Reads",
+        label: "Israel Itua's Reads",
         href: '/about#reads',
       }),
       createScoutAction({

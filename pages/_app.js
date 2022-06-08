@@ -20,7 +20,7 @@ export default class MyApp extends App {
     super();
     this.state = {
       show: false,
-      theme: loadState() ? true : false,
+      theme: true,
     };
   }
   loadTheme = () => {

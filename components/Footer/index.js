@@ -8,15 +8,7 @@ import styled from 'styled-components';
 
 /* -------------------------- Image Dependecy -------------------------- */
 
-import {
-  IconRight,
-  Twitter,
-  Facebook,
-  Linkedin,
-  Github,
-  Instagram,
-  Dribble,
-} from '../Icons';
+import { IconRight, Linkedin, Github } from '../Icons';
 
 /* ---------------------------- Style Dependency ---------------------------- */
 import { SocialMedia } from '../Layout/style';
@@ -50,26 +42,8 @@ const FooterLink = ({ children, goto, ...rest }) => {
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://twitter.com/code_wonders"
-          aria-label="Go To Adenekan Wonderful Twitter Page"
-          title="Twitter Page"
-        >
-          <Twitter />
-        </a>
-        <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href="https://www.facebook.com/AdenekanWonderful"
-          aria-label="Go To Adenekan Wonderful Facebook Page"
-          title="Facebook Page"
-        >
-          <Facebook />
-        </a>
-        <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href="https://linkedin.com/in/codewonders"
-          aria-label="Go To Adenekan Wonderful Linkedin Page"
+          href="https://www.linkedin.com/in/israel-itua/"
+          aria-label="Go To Israel Itua Linkedin Page"
           title="Linkedin Page"
         >
           <Linkedin />
@@ -77,29 +51,11 @@ const FooterLink = ({ children, goto, ...rest }) => {
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://github.com/adenekan41"
-          aria-label="Go To Adenekan Wonderful Github Page"
+          href="https://github.com/the-israelItua"
+          aria-label="Go To Israel Itua Github Page"
           title="Github Page"
         >
           <Github />
-        </a>
-        <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href="https://dribbble.com/codewonders"
-          aria-label="Go To Adenekan Wonderful Dribble Page"
-          title="Dribbble Page"
-        >
-          <Dribble />
-        </a>
-        <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href="https://instagram.com/codewonders"
-          aria-label="Go To Adenekan Wonderful Instagram Page"
-          title="Instagram Page"
-        >
-          <Instagram />
         </a>
       </SocialMedia>
     </>

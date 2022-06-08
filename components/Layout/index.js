@@ -43,7 +43,7 @@ const Layout = ({ children, title = 'Home' }) => {
     <Main>
       <BodyStyling theme={theme} />
       <Helmet>
-        <title>{`${title} | Adenekan Wonderful | Codewonders`}</title>
+        <title>{`${title} | Israel Itua `}</title>
         <meta
           name="msapplication-TileColor"
           content={`${theme ? '#000000' : '#FFFFFF'}`}
@@ -54,7 +54,7 @@ const Layout = ({ children, title = 'Home' }) => {
       <Navbar />
       <BackLay title={title}>
         <h1 aria-hidden="true">
-          {title === 'Home' ? 'Hello, There.' : title.concat('.')}
+          {title === 'Home' ? 'Open to work' : title.concat('.')}
         </h1>
       </BackLay>
       <Cursor />

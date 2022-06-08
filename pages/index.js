@@ -16,7 +16,7 @@ const Home = () => {
   const [color] = useState(arrayRandomItem(['#37609c', '#34c759', '#5856d6']));
   const copyText = () => {
     const textField = document.createElement('textarea');
-    textField.innerText = 'hellocodewonders@gmail.com';
+    textField.innerText = 'israelitua20@gmail.com';
     document.body.appendChild(textField);
     textField.select();
     document.execCommand('copy');
@@ -28,31 +28,14 @@ const Home = () => {
       <PageSection color={color}>
         <PageWrapper>
           <article>
-            <h1 data-text="I'm Adenekan Wonderful" className="intro__text">
-              <mark className="mark">I&apos;m Adenekan Wonderful</mark>
+            <h1 data-text="I'm Israel Itua" className="intro__text">
+              <mark className="mark">I&apos;m Israel Itua</mark>
             </h1>
             <p>
-              {' '}
-              Frontend developer, UX architect and Javascript engineer,{' '}
-              <Link href="/lens">
-                <a aria-label="Go to Lens Page">
-                  <button type="button" tabIndex="-1">
-                    Photochromic Lens
-                  </button>
-                </a>
-              </Link>{' '}
-              enthusiast, practicing minimalist, and{' '}
-              <a
-                href="https://open.spotify.com/playlist/2EH5NURI9OzRsMOFOGL70V"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="View Music Playlist"
-              >
-                <button type="button" tabIndex="-1">
-                  Pop Music & Jazz lover
-                </button>
-              </a>{' '}
-              in search of flow.
+              I'm a Frontend engineer with great passion for building excellent
+              softwares. I build fun stuffs using Typescriipt and JavaScript. I
+              have a knack for building aesthetically pleasing web applications
+              with great user experiences.
             </p>
             <p>
               Working with my hands to make magic happen on the internet. View
@@ -65,16 +48,13 @@ const Home = () => {
                 </a>
               </Link>
               ,{' '}
-              <Link href="/articles">
-                <a aria-label="Go to Articles Page And Check What I Read">
-                  <button type="button" tabIndex="-1">
-                    Articles
-                  </button>
-                </a>
-              </Link>
-              ,{' '}
-              <Link href="/resume">
-                <a aria-label="Go to Resume Page">
+              <Link href="#!">
+                <a
+                  aria-label="Go to Resume Page"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://drive.google.com/file/d/1N2RsWOqRxRARCyKtrzyGoq8hliecJITY/view"
+                >
                   <button type="button" tabIndex="-1">
                     Resumé
                   </button>
@@ -96,7 +76,7 @@ const Home = () => {
                 type="button"
                 aria-label="Send an email"
               >
-                hellocodewonders@gmail.com
+                israelitua20@gmail.com
               </button>
               .
             </p>
