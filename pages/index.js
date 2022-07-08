@@ -33,7 +33,7 @@ const Home = () => {
             </h1>
             <p>
               I'm a Frontend engineer with great passion for building excellent
-              softwares. I build fun stuffs using Typescriipt and JavaScript. I
+              softwares. I build fun stuffs using Typescript and JavaScript. I
               have a knack for building aesthetically pleasing web applications
               with great user experiences.
             </p>
