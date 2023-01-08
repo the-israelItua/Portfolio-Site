@@ -56,7 +56,7 @@ const Home = () => {
                   href="https://drive.google.com/file/d/1ZPiypFSNefUZ83Jd94WuZO_DryI9umai/view?usp=share_link"
                 >
                   <button type="button" tabIndex="-1">
-                    Resumé
+                    Resume
                   </button>
                 </a>
               </Link>
