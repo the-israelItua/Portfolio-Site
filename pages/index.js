@@ -53,10 +53,10 @@ const Home = () => {
                   aria-label="Go to Resume Page"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://drive.google.com/file/d/1N2RsWOqRxRARCyKtrzyGoq8hliecJITY/view"
+                  href="https://drive.google.com/file/d/1ZPiypFSNefUZ83Jd94WuZO_DryI9umai/view?usp=share_link"
                 >
                   <button type="button" tabIndex="-1">
-                    Resumé
+                    Resume
                   </button>
                 </a>
               </Link>
