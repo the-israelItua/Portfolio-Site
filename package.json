@@ -1,9 +1,9 @@
 {
-  "name": "codewonders",
+  "name": "israelitua",
   "version": "1.5.0",
   "private": false,
   "license": "MIT",
-  "repository": "git://github.com/adenekan41/codewonders.git",
+  "repository": "https://github.com/the-israelItua/Portfolio-Site",
   "description": "Israel Itua's Website",
   "author": "Israel Itua <israelitua20@gmail.com> ",
   "scripts": {

@@ -65,8 +65,27 @@ const About = () => {
                   Work Experience
                 </a>
                 <div className="mt-5">
+                  <h4>Sellit - Frontend Engineer</h4>
+                  <p>AUGUST 2022 - PRESENT</p>
+                </div>
+                <p>
+                  - Building stable and maintainable codebases using React,
+                  Typescript and Javascript.
+                </p>
+                <p>
+                  - Collaborating with designers to ensure designs were
+                  efficient and technically sound.
+                </p>
+                <p>
+                  - Implement new features and improve existing ones, Building
+                  robust and performant new features in a Service Oriented
+                  Architecture (SOA), Profiling, and optimization of existing
+                  features, Support planning, and testing features.
+                </p>
+
+                <div className="mt-5">
                   <h4>Nomba (Formerly Kudi) - Frontend Engineer</h4>
-                  <p>APRIL 2021 - PRESENT</p>
+                  <p>APRIL 2021 - JULY 2022</p>
                 </div>
                 <p>
                   - Contributed as a member of the software engineering team
@@ -91,7 +110,7 @@ const About = () => {
 
                 <div className="mt-5">
                   <h4> Ebidhaa Nigeria Limited - Frontend Engineer</h4>
-                  <p>JAN 2020 - APRIL 2021</p>
+                  <p>JANUARY 2020 - APRIL 2021</p>
                 </div>
 
                 <p>

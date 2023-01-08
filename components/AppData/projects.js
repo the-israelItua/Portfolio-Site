@@ -1,5 +1,23 @@
 const PROJECTS_DATA = [
   {
+    title: 'Sellit',
+    description: 'Sellit Ecommerce dashboard',
+    about:
+      'Sellit is an ecommerce marketplace that aims to revolutionize the modern day shopping mall; bringing an in-person shopping experience online.',
+    link: 'https://sellit.co/',
+    imageUrl: 'https://media.giphy.com/media/kF7y50pXdwr3w06bPK/giphy.gif',
+    github: 'Private',
+    type: ['project', 'open-source', 'tools'],
+    technologies: [
+      'React',
+      'Typescript',
+      'Redux toolkit',
+      'Material UI',
+      'React testing library',
+      'Jest',
+    ],
+  },
+  {
     title: 'Nomba Business Banking',
     description: 'Nomba Business Banking Dashboard',
     about:
@@ -11,87 +29,8 @@ const PROJECTS_DATA = [
     technologies: [
       'React',
       'Styled-components',
-      'Tyescript',
-      'Redux toolkit',
-      'Storybook',
-      'React testing library',
-      'Jest',
-    ],
-  },
-  {
-    title: 'Kudi Marketplace',
-    description: 'Kudi Marketplace Dashboard',
-    about:
-      'Kudi marketplace provides a simple and convenient way for merchants to integrate and collect cash payments. Integration to Marketplace can be done in simple steps, making it the easiest way to start accepting payments. Our APIs are easy to use and adhere to standard HTTP response codes, authentication, and verbs.',
-    link: 'https://marketplace.kudi.ai/',
-    imageUrl: 'https://media.giphy.com/media/VrwmNTxks2Kp63q3sY/giphy.gif',
-    github: 'Private',
-    type: ['project', 'open-source', 'tools'],
-    technologies: [
-      'React',
-      'SCSS',
-      'Javascript',
-      'Redux',
-      'React testing library',
-      'Jest',
-    ],
-  },
-
-  {
-    title: 'My Portfolio Website',
-    description: 'Israel Itua. Frontend Engineer',
-    about:
-      "I'm a Frontend engineer with great passion for building excellent softwares. I build fun stuffs using Typescriipt and JavaScript. I have a knack for building aesthetically pleasing web applications with great user experiences.",
-    link: 'https://the-israelitua.github.io/',
-    imageUrl: 'https://media.giphy.com/media/Mly6Ejj8B7Y8c0Dfqk/giphy.gif',
-    github: 'Private',
-    type: ['project', 'open-source', 'tools'],
-    technologies: ['React', 'Next.Js', 'styled-components'],
-  },
-
-  {
-    title: 'Smart Menu Web',
-    description: 'Restaurant Management at very low costs.',
-    about:
-      'Smart menu helps you grow revenue in your restaurant through digitalization. Give your guests the best in class dining experience for a fraction of the cost',
-    link: 'https://www.mysmartmenu.io/',
-    imageUrl: 'https://media.giphy.com/media/erqCyyz6JJYM75Pa7g/giphy.gif',
-    github: 'Private',
-    type: ['project', 'open-source', 'tools'],
-    technologies: [
-      'React',
-      'Tailwind CSS',
       'Typescript',
       'Redux toolkit',
-      'React testing library',
-      'Jest',
-    ],
-  },
-  {
-    title: 'Ebidhaa Nigeria Limited',
-    description: 'Great Softwares are built by great teams. Hire Us',
-    about:
-      'We are a software solutions company that works hand in hand with clients to create not just software solutions but solutions that add value and solve problems in the lives of the users.',
-    link: 'https://ebidhaang.org/',
-    imageUrl: 'https://media.giphy.com/media/BlGzU0FPAldEwaTpdr/giphy.gif',
-    github: 'Private',
-    type: ['project', 'open-source', 'tools'],
-    technologies: ['React', 'SCSS'],
-  },
-  {
-    title: 'Nomba Landing Page',
-    description:
-      'Accept payments, send money, use tools that will help you grow your business',
-    about:
-      'Nomba provides simple payment, money and sales solutions for your business.It helps you to accept payments, send money, and use tools that will help you grow your business',
-    link: 'https://www.nomba.com/',
-    imageUrl: 'https://media.giphy.com/media/UYfExmopWsVg1dnZsa/giphy.gif',
-    github: 'Private',
-    type: ['project', 'open-source', 'tools'],
-    technologies: [
-      'React',
-      'Styled-components',
-      'Typescript',
       'Storybook',
       'React testing library',
       'Jest',
@@ -133,6 +72,68 @@ const PROJECTS_DATA = [
       'Jest',
     ],
   },
+
+  {
+    title: 'My Portfolio Website',
+    description: 'Israel Itua. Frontend Engineer',
+    about:
+      "I'm a Frontend engineer with great passion for building excellent softwares. I build fun stuffs using Typescriipt and JavaScript. I have a knack for building aesthetically pleasing web applications with great user experiences.",
+    link: 'https://the-israelitua.github.io/',
+    imageUrl: 'https://media.giphy.com/media/Mly6Ejj8B7Y8c0Dfqk/giphy.gif',
+    github: 'Private',
+    type: ['project', 'open-source', 'tools'],
+    technologies: ['React', 'Next.Js', 'styled-components'],
+  },
+
+  {
+    title: 'Nomba Landing Page',
+    description:
+      'Accept payments, send money, use tools that will help you grow your business',
+    about:
+      'Nomba provides simple payment, money and sales solutions for your business.It helps you to accept payments, send money, and use tools that will help you grow your business',
+    link: 'https://www.nomba.com/',
+    imageUrl: 'https://media.giphy.com/media/UYfExmopWsVg1dnZsa/giphy.gif',
+    github: 'Private',
+    type: ['project', 'open-source', 'tools'],
+    technologies: [
+      'React',
+      'Styled-components',
+      'Typescript',
+      'Storybook',
+      'React testing library',
+      'Jest',
+    ],
+  },
+  {
+    title: 'Kudi Marketplace',
+    description: 'Kudi Marketplace Dashboard',
+    about:
+      'Kudi marketplace provides a simple and convenient way for merchants to integrate and collect cash payments. Integration to Marketplace can be done in simple steps, making it the easiest way to start accepting payments. Our APIs are easy to use and adhere to standard HTTP response codes, authentication, and verbs.',
+    link: 'https://marketplace.kudi.ai/',
+    imageUrl: 'https://media.giphy.com/media/VrwmNTxks2Kp63q3sY/giphy.gif',
+    github: 'Private',
+    type: ['project', 'open-source', 'tools'],
+    technologies: [
+      'React',
+      'SCSS',
+      'Javascript',
+      'Redux',
+      'React testing library',
+      'Jest',
+    ],
+  },
+
+  {
+    title: 'Ebidhaa Nigeria Limited',
+    description: 'Great Softwares are built by great teams. Hire Us',
+    about:
+      'We are a software solutions company that works hand in hand with clients to create not just software solutions but solutions that add value and solve problems in the lives of the users.',
+    link: 'https://ebidhaang.org/',
+    imageUrl: 'https://media.giphy.com/media/BlGzU0FPAldEwaTpdr/giphy.gif',
+    github: 'Private',
+    type: ['project', 'open-source', 'tools'],
+    technologies: ['React', 'SCSS'],
+  },
   {
     title: 'WhatsApp Web',
     description: 'Clone Whatsapp? I got you',
@@ -145,6 +146,25 @@ const PROJECTS_DATA = [
       'React',
       'Tailwind CSS',
       'Tyescript',
+      'Redux toolkit',
+      'React testing library',
+      'Jest',
+    ],
+  },
+
+  {
+    title: 'Smart Menu Web',
+    description: 'Restaurant Management at very low costs.',
+    about:
+      'Smart menu helps you grow revenue in your restaurant through digitalization. Give your guests the best in class dining experience for a fraction of the cost',
+    link: 'https://www.mysmartmenu.io/',
+    imageUrl: 'https://media.giphy.com/media/erqCyyz6JJYM75Pa7g/giphy.gif',
+    github: 'Private',
+    type: ['project', 'open-source', 'tools'],
+    technologies: [
+      'React',
+      'Tailwind CSS',
+      'Typescript',
       'Redux toolkit',
       'React testing library',
       'Jest',
