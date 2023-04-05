@@ -32,10 +32,38 @@ const Home = () => {
               <mark className="mark">I&apos;m Israel Itua</mark>
             </h1>
             <p>
-              I'm a Frontend engineer with great passion for building excellent
-              softwares. I build fun stuffs using Typescript and JavaScript. I
-              have a knack for building aesthetically pleasing web applications
-              with great user experiences.
+              As a highly skilled Frontend Engineer with over 3 years of
+              experience, I have developed expertise in designing and developing
+              user-friendly, responsive, and scalable web solutions. My
+              proficiency in HTML, CSS, JavaScript, and React has allowed me to
+              collaborate effectively with cross-functional teams to deliver
+              high-quality web solutions that meet business needs and user
+              requirements.
+            </p>
+
+            <p>
+              I have a solid understanding of UX/UI design principles and best
+              practices, and I am committed to creating user-centered designs
+              that optimize user experience and drive business growth. My strong
+              problem-solving skills and attention to detail enable me to
+              develop clean, efficient, and maintainable code that adheres to
+              industry standards and best practices.
+            </p>
+
+            <p>
+              I am passionate about staying up-to-date with the latest trends
+              and technologies in frontend development and am committed to
+              ongoing learning and professional development. As a result, I am
+              constantly seeking new challenges and opportunities to apply my
+              skills and expertise in a dynamic and fast-paced environment.
+            </p>
+
+            <p>
+              I am excited about the opportunity to contribute my skills and
+              expertise to a forward-thinking organization that values
+              innovation, collaboration, and excellence in frontend development.
+              Let's connect to explore how I can help drive your business
+              forward.{' '}
             </p>
             <p>
               Working with my hands to make magic happen on the internet. View
@@ -53,7 +81,7 @@ const Home = () => {
                   aria-label="Go to Resume Page"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://drive.google.com/file/d/1ZPiypFSNefUZ83Jd94WuZO_DryI9umai/view?usp=share_link"
+                  href="https://drive.google.com/file/d/1pMtTCcgvQQPY052i6Ij7U5FqMdkY8_z4/view?usp=sharing"
                 >
                   <button type="button" tabIndex="-1">
                     Resume

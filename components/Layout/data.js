@@ -19,7 +19,7 @@ export const actions = (theme) => [
   createScoutAction({
     label: 'Resume',
     href:
-      'https://drive.google.com/file/d/1ZPiypFSNefUZ83Jd94WuZO_DryI9umai/view?usp=share_link',
+      'https://drive.google.com/file/d/1pMtTCcgvQQPY052i6Ij7U5FqMdkY8_z4/view?usp=sharing',
     keyboardShortcut: ['r'],
   }),
   createScoutAction({
