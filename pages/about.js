@@ -69,20 +69,34 @@ const About = () => {
                   <p>AUGUST 2022 - PRESENT</p>
                 </div>
                 <p>
-                  - Building stable and maintainable codebases using React,
-                  Typescript and Javascript.
+                  - Collaborated with cross-functional teams including
+                  designers, product managers, and backend engineers to develop
+                  and maintain the Sellit e-commerce platform using NextJs.
                 </p>
                 <p>
-                  - Collaborating with designers to ensure designs were
-                  efficient and technically sound.
+                  - Designed and implemented responsive and user-friendly
+                  interfaces to enhance user experience and increase conversion
+                  rates.
                 </p>
                 <p>
-                  - Implement new features and improve existing ones, Building
-                  robust and performant new features in a Service Oriented
-                  Architecture (SOA), Profiling, and optimization of existing
-                  features, Support planning, and testing features.
+                  - Worked closely with UX designers to ensure designs were
+                  implemented correctly and met user needs.
                 </p>
 
+                <p>
+                  - Maintained and improved existing codebase, ensuring high
+                  quality, efficient, and scalable code.
+                </p>
+
+                <p>
+                  - Conducted code reviews and provided feedback to other team
+                  members to ensure code quality and consistency.
+                </p>
+
+                <p>
+                  - Developed and implemented new features and functionality to
+                  meet business requirements.
+                </p>
                 <div className="mt-5">
                   <h4>Nomba (Formerly Kudi) - Frontend Engineer</h4>
                   <p>APRIL 2021 - JULY 2022</p>
