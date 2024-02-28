@@ -1,5 +1,35 @@
 const PROJECTS_DATA = [
   {
+    title: 'Job AI',
+    description: 'Job AI: Your Job Application Assistant',
+    about: 'Generate proposal winning cover letters on Upwork.',
+    link: 'https://jobai.space/',
+    imageUrl:
+      'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRycWd5Ynh0MG8zaXp4azNidGgxN2VoOWE2eGs2dG01engwZmlpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TAGfMNMLLzjD4SImh7/giphy.gif',
+    github: 'Private',
+    type: ['project', 'ai', 'tools'],
+    technologies: ['React', 'Webpack', 'Google Chrome', 'Css'],
+  },
+  {
+    title: 'Recital',
+    description: 'Enterprise Financial Operations & Liquidity Management',
+    about:
+      'Scale your financial operations through centralized data, automated reconciliation, real-time cash flow management, chargeback management & more.',
+    link: 'https://recital.finance/',
+    imageUrl:
+      'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHFkbmF4M2Rkc242enR5bmdobzV0YmgzYnVmNm1qbmhqZHQ1eGl4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kcLGS6oqflwysBmC08/giphy.gif',
+    github: 'Private',
+    type: ['project', 'finance', 'reconciliation'],
+    technologies: [
+      'React',
+      'Typescript',
+      'Redux toolkit',
+      'Material UI',
+      'React testing library',
+      'Jest',
+    ],
+  },
+  {
     title: 'Sellit',
     description: 'Sellit Ecommerce dashboard',
     about:
