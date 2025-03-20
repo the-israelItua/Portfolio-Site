@@ -1,4 +1,9 @@
 {
   "version": 2,
-  "builds": [{ "src": "Dockerfile", "use": "@vercel/docker" }]
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/next"
+    }
+  ]
 }
