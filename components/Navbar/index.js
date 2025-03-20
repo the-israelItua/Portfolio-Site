@@ -103,7 +103,7 @@ const Navbar = () => {
                       onClick={closeShow}
                       target="_blank"
                       rel="noopener noreferrer"
-                      href="https://drive.google.com/file/d/1pMtTCcgvQQPY052i6Ij7U5FqMdkY8_z4/view?usp=sharing"
+                      href="https://drive.google.com/file/d/1EAuY02r6Og9O7i6hNuCGpwnAmfFUZA2y/view?usp=sharing"
                       aria-label="Go To Resume Page"
                       title="Resume"
                     >

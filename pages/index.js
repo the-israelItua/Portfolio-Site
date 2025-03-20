@@ -32,38 +32,36 @@ const Home = () => {
               <mark className="mark">I&apos;m Israel Itua</mark>
             </h1>
             <p>
-              As a highly skilled Frontend Engineer with over 3 years of
-              experience, I have developed expertise in designing and developing
-              user-friendly, responsive, and scalable web solutions. My
-              proficiency in HTML, CSS, JavaScript, and React has allowed me to
-              collaborate effectively with cross-functional teams to deliver
-              high-quality web solutions that meet business needs and user
-              requirements.
+              As a highly skilled Frontend Engineer with over five years of
+              experience, I specialize in building scalable, high-performance,
+              and user-centric web applications. My expertise includes React,
+              JavaScript, TypeScript, HTML, and CSS, along with a strong
+              understanding of modern UI/UX principles. I have a proven track
+              record of collaborating with cross-functional teams to develop
+              responsive, accessible, and maintainable web solutions that align
+              with both business goals and user needs. Additionally, my
+              experience with performance optimization, state management, and
+              front-end architecture enables me to craft seamless and efficient
+              user experiences.
             </p>
 
             <p>
-              I have a solid understanding of UX/UI design principles and best
-              practices, and I am committed to creating user-centered designs
-              that optimize user experience and drive business growth. My strong
-              problem-solving skills and attention to detail enable me to
-              develop clean, efficient, and maintainable code that adheres to
-              industry standards and best practices.
+              I am passionate about staying at the forefront of frontend
+              development, continuously exploring the latest technologies,
+              frameworks, and best practices. Committed to lifelong learning and
+              professional growth, I actively seek new challenges that push my
+              skills and expertise. My drive to innovate and adapt allows me to
+              thrive in dynamic, fast-paced environments, where I can contribute
+              to building cutting-edge, high-performance web solutions.
             </p>
 
             <p>
-              I am passionate about staying up-to-date with the latest trends
-              and technologies in frontend development and am committed to
-              ongoing learning and professional development. As a result, I am
-              constantly seeking new challenges and opportunities to apply my
-              skills and expertise in a dynamic and fast-paced environment.
-            </p>
-
-            <p>
-              I am excited about the opportunity to contribute my skills and
-              expertise to a forward-thinking organization that values
-              innovation, collaboration, and excellence in frontend development.
-              Let's connect to explore how I can help drive your business
-              forward.{' '}
+              I am eager to bring my skills and expertise to a forward-thinking
+              organization that values innovation, collaboration, and excellence
+              in frontend development. I thrive in environments where
+              cutting-edge technology meets creative problem-solving, and I look
+              forward to contributing to impactful projects. Let’s connect to
+              explore how my experience can help drive your business forward. 🚀
             </p>
             <p>
               Working with my hands to make magic happen on the internet. View
@@ -81,7 +79,7 @@ const Home = () => {
                   aria-label="Go to Resume Page"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://drive.google.com/file/d/1pMtTCcgvQQPY052i6Ij7U5FqMdkY8_z4/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1EAuY02r6Og9O7i6hNuCGpwnAmfFUZA2y/view?usp=sharing"
                 >
                   <button type="button" tabIndex="-1">
                     Resume
