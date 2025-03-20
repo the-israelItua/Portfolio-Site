@@ -17,10 +17,6 @@
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "check-packages": "yarn clean && yarn compile && yarn test && yarn lint"
   },
-  
-  "engines": {
-    "node": "16.x"
-  },
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
     "codewonders-helpers": "^1.1.0",
