@@ -64,23 +64,92 @@ const About = () => {
                 <a aria-label="Open Github Link" href="#!">
                   Work Experience
                 </a>
+
                 <div className="mt-5">
-                  <h4>Sellit - Frontend Engineer</h4>
-                  <p>AUGUST 2022 - PRESENT</p>
+                  <h4>Frontedge - Senior Frontend Engineer</h4>
+                  <p>March 2024 – Present</p>
+                </div>
+
+                <p>
+                  - Led the development of a new dashboard for the web
+                  application, redesigning the architecture for better
+                  performance, scalability and user-experience.
+                </p>
+                <p>
+                  - Collaborated with other engineers, designers and product
+                  manager to align technical solutions with the business
+                  objectives.
+                </p>
+                <p>
+                  - Implemented secure payment processing integrations, ensuring
+                  compliance with financial regulations and minimizing
+                  transaction failures for users.
+                </p>
+
+                <div className="mt-5">
+                  <h4>Nomba Financial Services Limited - Frontend Engineer</h4>
+                  <p>April 2021 – Febuary 2024</p>
+                </div>
+
+                <p>
+                  - Implemented security measures to protect user data and
+                  prevent fraud, ensuring compliance with industry regulations
+                  and standards
+                </p>
+                <p>
+                  - Developed and maintained frontend architecture to ensure
+                  scalability and maintainability of code
+                </p>
+                <p>
+                  - Proactively identified and resolved technical challenges,
+                  optimizing application performance and user experience.
+                </p>
+                <p>
+                  - Implemented new features and functionality to improve user
+                  experience and increase conversion rates.
+                </p>
+
+                <div className="mt-5">
+                  <h4>Wawu - Fullstack Software Engineer - Contract</h4>
+                  <p>June 2023 – October 2023</p>
+                </div>
+
+                <p>
+                  - Collaborated with cross-functional teams to design and
+                  implement an e-commerce mobile application using TypeScript,
+                  Nest.js, and Node.js for the backend and mobile app with React
+                  Native
+                </p>
+                <p>
+                  - Led the development of RESTful APIs and integrated them
+                  seamlessly with the frontend, ensuring smooth communication
+                  between server and client
+                </p>
+                <p>
+                  - Participated in architectural discussions and contributed to
+                  the evolution of the software architecture to meet scalability
+                  and performance requirements
+                </p>
+
+                <div className="mt-5">
+                  <h4>Sellit - Fullstack Software Engineer</h4>
+                  <p>July 2022 – June 2023</p>
                 </div>
                 <p>
-                  - Collaborated with cross-functional teams including
-                  designers, product managers, and backend engineers to develop
-                  and maintain the Sellit e-commerce platform using NextJs.
+                  - Spearheaded the development of a responsive and
+                  user-friendly e-commerce platform, utilizing TypeScript,
+                  React, Node.js, Nest.js, and PostgreSQL
                 </p>
                 <p>
-                  - Designed and implemented responsive and user-friendly
-                  interfaces to enhance user experience and increase conversion
-                  rates.
+                  - Collaborated closely with UX/UI designers to implement
+                  visually appealing and intuitive features, enhancing the
+                  overall customer experience and ensuring alignment with brand
+                  aesthetics
                 </p>
                 <p>
-                  - Worked closely with UX designers to ensure designs were
-                  implemented correctly and met user needs.
+                  - Conducted thorough testing and debugging processes, reducing
+                  system errors by 25% and ensuring a seamless and reliable
+                  shopping experience for users.
                 </p>
 
                 <p>
@@ -97,34 +166,10 @@ const About = () => {
                   - Developed and implemented new features and functionality to
                   meet business requirements.
                 </p>
-                <div className="mt-5">
-                  <h4>Nomba (Formerly Kudi) - Frontend Engineer</h4>
-                  <p>APRIL 2021 - JULY 2022</p>
-                </div>
-                <p>
-                  - Contributed as a member of the software engineering team
-                  that overhauled the MVP and shipped version two of the Kudi
-                  Marketplace product line. This improved the dashboard
-                  application users offline payment and onboarding experience by
-                  50% and the payment system processed a 150% transaction volume
-                  increase over the previous version.
-                </p>
-                <p>
-                  - Maintained and built new features for two $240k+ revenue
-                  product bylines including a financial marketplace that allows
-                  third-party merchants to receive customer payments and
-                  auto-settlement for transactions across borders with ~10
-                  engineers.
-                </p>
-                <p>
-                  - Used React testing library and Jest for mocking functions
-                  and writing tests. This impoved test coverage across all
-                  aplications to over 90%.
-                </p>
 
                 <div className="mt-5">
                   <h4> Ebidhaa Nigeria Limited - Frontend Engineer</h4>
-                  <p>JANUARY 2020 - APRIL 2021</p>
+                  <p>January 2020 – April 2021</p>
                 </div>
 
                 <p>

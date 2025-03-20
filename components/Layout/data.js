@@ -19,7 +19,7 @@ export const actions = (theme) => [
   createScoutAction({
     label: 'Resume',
     href:
-      'https://drive.google.com/file/d/1pMtTCcgvQQPY052i6Ij7U5FqMdkY8_z4/view?usp=sharing',
+      'https://drive.google.com/file/d/1EAuY02r6Og9O7i6hNuCGpwnAmfFUZA2y/view?usp=sharing',
     keyboardShortcut: ['r'],
   }),
   createScoutAction({
@@ -53,7 +53,7 @@ export const actions = (theme) => [
   }),
 
   createScoutSection({
-    label: 'BY Codewonders',
+    label: 'BY Israel Itua',
 
     children: [
       createScoutPage({
