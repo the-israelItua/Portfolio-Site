@@ -1,5 +1,18 @@
 const PROJECTS_DATA = [
   {
+    title: 'Nomba Checkout SDK',
+    description:
+      'A lightweight React SDK for seamless payment integration using Nomba Checkout.',
+    about:
+      'This SDK enables developers to quickly embed and manage Nomba checkout flows in any web application. Built with flexibility in mind, it simplifies payment processing by abstracting complexities into a straightforward API.',
+    link: 'https://www.npmjs.com/package/react-nomba-checkout-sdk',
+    imageUrl:
+      'https://i.postimg.cc/nCsMb6jx/Screenshot-2025-05-11-at-19-33-34.png',
+    github: 'Private',
+    type: ['project', 'sdk', 'payments'],
+    technologies: ['JavaScript', 'TypeScript', 'React'],
+  },
+  {
     title: 'Frontedge',
     description: 'Seamlessly access capital and tools for international trade.',
     about:

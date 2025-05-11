@@ -9,7 +9,6 @@ import styled from 'styled-components';
 
 import Layout, { PageWrapper } from '../components/Layout';
 import FooterLink from '../components/Footer';
-import Tabs, { TabItems } from '../components/Tabs';
 import MansoryLayout from '../components/Mansory';
 import MansoryItem from '../components/Mansory/mansory-item';
 import { ProjectsContext } from '../components/Utils/context';
